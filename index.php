@@ -1,4 +1,4 @@
 <?php 
-    echo "<h1>my repository</h1>"
-    echo "<h1>My name is eiei</h1>"
+    echo "<h1>อุอุอิอิคิคุ</h1>"
+    echo "<h1>ชื่ออะไรอ่ะ</h1>"
 ?>

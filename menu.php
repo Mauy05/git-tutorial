@@ -1,4 +1,4 @@
 <?php
-    echo "<h1>Main</h1>"
-    echo "<h1>Mahanakorn</h1>"
+    echo "<h1>หน้าหลัก</h1>"
+    echo "<h1>มหานคร</h1>"
     ?>
